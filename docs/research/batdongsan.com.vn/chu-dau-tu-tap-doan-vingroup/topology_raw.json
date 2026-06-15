@@ -1,0 +1,122 @@
+[
+  {
+    "tag": "DIV",
+    "className": "re__container-sm",
+    "id": "",
+    "textHead": "Tải ứng\n                                    dụng\n "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__banner-container js__banner-left",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__banner-container js__banner-right",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__search-box-container",
+    "id": "",
+    "textHead": "Mua bán\n            Cho thuê\n            Dự án\n   "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__suggestion-select-dropdown-container js__location-search-select-dropdown",
+    "id": "",
+    "textHead": "Tìm theo địa chỉ mới sau sáp nhập\n            \n   "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__new-location-selection-toggle-container js__display-new-address-container",
+    "id": "",
+    "textHead": "Tìm theo địa chỉ mới sau sáp nhập"
+  },
+  {
+    "tag": "DIV",
+    "className": "js__listing-search-select-container re__listing-content-select re__listing-filter-toogle re__has-value re__new-location-selection-toggle js__suggestion-display-new-address-toggle swiper-slide",
+    "id": "",
+    "textHead": "Tìm theo địa chỉ mới sau sáp nhập"
+  },
+  {
+    "tag": "DIV",
+    "className": "re__home__head__banner-container re__banner-container re__banner-container-no-style js__gam__home__head__banner-container",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__banner-cover re__master-head loveMoney102 ads-loaded swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__content-container",
+    "id": "",
+    "textHead": "Tin nổi bật\n        Tin tức\n        BĐS TPHCM\n    "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__home__hot-news__article-container",
+    "id": "",
+    "textHead": "Tin nổi bật\n        Tin tức\n        BĐS TPHCM\n    "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__article-info-container js__article-info-container",
+    "id": "",
+    "textHead": "����C\b\u0006\u0006\u0007\u0006\u0005\b\u0007\u0007\u0007\t\t\b\n\f\u0014\n\f\u000b\u000b\f\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c("
+  },
+  {
+    "tag": "DIV",
+    "className": "re__article-list-container js__article-list-container",
+    "id": "",
+    "textHead": "Lợi Thế Giá Trị Sống Và Đầu Tư Dài Hạn - Câu Chuyệ"
+  },
+  {
+    "tag": "DIV",
+    "className": "re__home__hot-news__banner-container re__banner-container",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__content-container",
+    "id": "",
+    "textHead": "Bất động sản dành cho bạn\n\n    Tin nhà đất bán mới"
+  },
+  {
+    "tag": "H2",
+    "className": "re__content-container-label",
+    "id": "",
+    "textHead": "Bất động sản dành cho bạn"
+  },
+  {
+    "tag": "SPAN",
+    "className": "re__content-container-link",
+    "id": "",
+    "textHead": "Tin nhà đất bán mới nhất\n      |  \n    Tin nhà đất"
+  },
+  {
+    "tag": "DIV",
+    "className": "re__product-container",
+    "id": "interestedProductsBinnovaContent",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__content-container",
+    "id": "",
+    "textHead": "Dự án bất động sản nổi bật\n    Xem thêm \n    \n    "
+  },
+  {
+    "tag": "H2",
+    "className": "re__content-container-label",
+    "id": "",
+    "textHead": "Dự án bất động sản nổi bật"
+  }
+]

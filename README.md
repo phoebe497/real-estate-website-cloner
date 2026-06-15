@@ -14,7 +14,48 @@ Point it at a URL, run `/clone-website`, and your AI agent will inspect the site
 
 > Click the image above to watch the full demo on YouTube.
 
-## Quick Start
+## Danh sách các trang đã clone (Cloned Pages)
+
+Dự án hiện tại đã clone thành công các trang sau từ Batdongsan.com.vn:
+
+1.  **Trang chủ (Tổng quan dự án):** `/`
+2.  **Bán căn hộ chung cư Vinhomes Ocean Park:** [`/ban-can-ho-chung-cu-vinhomes-ocean-park-gia-lam`](http://localhost:3000/ban-can-ho-chung-cu-vinhomes-ocean-park-gia-lam)
+3.  **Bán nhà biệt thự liền kề Vinhomes Ocean Park:** [`/ban-nha-biet-thu-lien-ke-vinhomes-ocean-park-gia-lam`](http://localhost:3000/ban-nha-biet-thu-lien-ke-vinhomes-ocean-park-gia-lam)
+4.  **Thông tin chủ đầu tư (Vingroup):** [`/chu-dau-tu-tap-doan-vingroup`](http://localhost:3000/chu-dau-tu-tap-doan-vingroup)
+
+## Hướng dẫn chạy dự án (Running the App)
+
+Để chạy dự án này trên máy cục bộ của bạn, hãy làm theo các bước sau:
+
+### 1. Cài đặt môi trường
+Đảm bảo bạn đã cài đặt **Node.js 24+**.
+
+### 2. Cài đặt dependencies
+```bash
+npm install
+```
+
+### 3. Chạy chế độ Development
+Để phát triển và xem thay đổi thời gian thực:
+```bash
+npm run dev
+```
+Sau đó mở [http://localhost:3000](http://localhost:3000) trên trình duyệt của bạn.
+
+### 4. Build và Chạy Production
+Để kiểm tra hiệu năng tối ưu hoặc triển khai:
+```bash
+npm run build
+npm start
+```
+
+### 5. Sử dụng Docker (Tùy chọn)
+Nếu bạn muốn chạy bằng Docker:
+```bash
+docker compose up app --build
+```
+
+## Quick Start (Dành cho AI Agent)
 
 > **Important:** Start by making your own copy with GitHub's **Use this template** button. Do not clone this template repository directly for your website project, and do not open pull requests here with your generated website.
 

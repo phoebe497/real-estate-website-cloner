@@ -1,0 +1,122 @@
+[
+  {
+    "tag": "DIV",
+    "className": "re__container-sm",
+    "id": "",
+    "textHead": "Tải ứng\n                                    dụng\n "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__banner-container js__banner-left",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__banner-container js__banner-right",
+    "id": "",
+    "textHead": ""
+  },
+  {
+    "tag": "DIV",
+    "className": "re__srp re__main-content-layout js__main-container",
+    "id": "",
+    "textHead": "Bộ lọc\n            \n            \n                 "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-container",
+    "id": "AdvancedFilterModal",
+    "textHead": "Bộ lọc\n            \n            \n                 "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Tất cả nhà đất\n                    \n              "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Khu vực & Dự án\n                    \n             "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__new-location-selection-toggle-container js__location-display-new-address-toggle-container",
+    "id": "",
+    "textHead": "Tìm theo địa chỉ mới sau sáp nhập"
+  },
+  {
+    "tag": "DIV",
+    "className": "js__listing-search-select-container \n    re__listing-content-select re__listing-filter-toogle re__has-value\n    re__new-location-selection-toggle js__location-display-new-address-toggle",
+    "id": "",
+    "textHead": "Tìm theo địa chỉ mới sau sáp nhập"
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Khoảng giá\n                    \n                  "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Diện tích\n                    \n                   "
+  },
+  {
+    "tag": "DIV",
+    "className": "js__listing-search-select-container \n    re__listing-content-select re__listing-filter-toogle\n    js__advanced-filter-verification re__srp-nav-filter-verification",
+    "id": "",
+    "textHead": "Tin xác thực\n            \n            \n           "
+  },
+  {
+    "tag": "DIV",
+    "className": "js__listing-search-select-container \n    re__listing-content-select re__listing-filter-toogle\n    js__advanced-filter-agent-verification re__srp-nav-filter-agent-verification",
+    "id": "",
+    "textHead": "Môi giới chuyên nghiệp"
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Đường vào\n                    \n                   "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Mặt tiền\n                    \n                    "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Mức giá điện\n                    \n                "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Thời gian dự kiến vào ở\n                    \n     "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Mức giá nước\n                    \n                "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-modal-selection",
+    "id": "",
+    "textHead": "Mức giá internet\n                    \n            "
+  },
+  {
+    "tag": "DIV",
+    "className": "re__advanced-filter-modal-container js__advanced-filter-children-modal-container",
+    "id": "AdvancedFilterChildrenModal",
+    "textHead": "Bộ lọc\n            \n            \n                 "
+  }
+]

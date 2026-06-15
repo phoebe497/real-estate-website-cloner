@@ -1,0 +1,28 @@
+{
+  "name": "Tập đoàn Vingroup",
+  "logo": "https://vinhomes.vn/themes/custom/vinhomes/logo.png",
+  "projectsCount": "200+",
+  "description": "Tập đoàn Vingroup - Công ty CP (sau đây gọi tắt là \"Tập đoàn Vingroup\") là một trong những Tập đoàn kinh tế tư nhân đa ngành lớn nhất Châu Á. Vingroup tập trung vào 3 lĩnh vực cốt lõi: Công nghệ - Công nghiệp, Thương mại Dịch vụ, Thiện nguyện Xã hội.",
+  "projects": [
+    {
+      "name": "Vinhomes Ocean Park",
+      "location": "Gia Lâm, Hà Nội",
+      "status": "Đang mở bán"
+    },
+    {
+      "name": "Vinhomes Smart City",
+      "location": "Nam Từ Liêm, Hà Nội",
+      "status": "Đang mở bán"
+    },
+    {
+      "name": "Vinhomes Grand Park",
+      "location": "Quận 9, TP. HCM",
+      "status": "Đang mở bán"
+    },
+    {
+      "name": "Vinhomes Riverside",
+      "location": "Long Biên, Hà Nội",
+      "status": "Đã bàn giao"
+    }
+  ]
+}

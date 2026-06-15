@@ -1,0 +1,363 @@
+{
+  "breadcrumb": {
+    "tag": "div",
+    "classes": "re__project-breadcrumb",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "24px 70px 8px",
+      "width": "1140px",
+      "height": "20px",
+      "maxWidth": "1140px",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "boxShadow": "none",
+      "position": "static",
+      "top": "auto",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "auto",
+      "zIndex": "auto"
+    },
+    "text": "Dự án / Hà Nội / Gia Lâm / Căn hộ chung cư Vinhomes Ocean Park Gia Lâm",
+    "children": [
+      {
+        "tag": "a",
+        "classes": "re__link-se re__link-se--previous",
+        "text": "Dự án"
+      },
+      {
+        "tag": "span",
+        "classes": "",
+        "text": "/"
+      },
+      {
+        "tag": "a",
+        "classes": "re__link-se re__link-se--previous",
+        "text": "Hà Nội"
+      },
+      {
+        "tag": "span",
+        "classes": "",
+        "text": "/"
+      },
+      {
+        "tag": "a",
+        "classes": "re__link-se re__link-se--previous",
+        "text": "Gia Lâm"
+      },
+      {
+        "tag": "span",
+        "classes": "",
+        "text": "/"
+      },
+      {
+        "tag": "a",
+        "classes": "re__link-se",
+        "text": "Căn hộ chung cư Vinhomes Ocean Park Gia Lâm"
+      }
+    ]
+  },
+  "heading": {
+    "tag": "div",
+    "classes": "re__project-heading",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px 0px 24px",
+      "width": "1141px",
+      "height": "87px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "boxShadow": "none",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "zIndex": "auto"
+    },
+    "text": "Vinhomes Ocean Park Gia Lâm\nXã Đa Tốn, Kiêu Kỵ, Dương Xá và thị trấn Trâu Quỳ, Gia Lâm, Hà Nội. Xem bản đồ\nChia sẻ",
+    "children": [
+      {
+        "tag": "h1",
+        "classes": "re__project-name",
+        "text": "Vinhomes Ocean Park Gia Lâm"
+      },
+      {
+        "tag": "div",
+        "classes": "re__project-address",
+        "text": "Xã Đa Tốn, Kiêu Kỵ, Dương Xá và thị trấn Trâu Quỳ,"
+      },
+      {
+        "tag": "div",
+        "classes": "js__btn-share-project re__project-sharing",
+        "text": "Chia sẻ"
+      }
+    ]
+  },
+  "album": {
+    "tag": "div",
+    "classes": "re__project-album-container re__clearfix",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "width": "1141px",
+      "height": "362px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "boxShadow": "none",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "zIndex": "auto"
+    },
+    "text": "19\nĐang mở bán\n420\nha",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "re__project-album re__clearfix",
+        "text": ""
+      },
+      {
+        "tag": "div",
+        "classes": "js__project-album-summary re__project-album-summary",
+        "text": "19"
+      },
+      {
+        "tag": "div",
+        "classes": "re__hidden",
+        "text": ""
+      },
+      {
+        "tag": "div",
+        "classes": "re__prj-tag-info re__project-open",
+        "text": "Đang mở bán"
+      },
+      {
+        "tag": "div",
+        "classes": "re__project-info-details re__clearfix",
+        "text": "420\nha"
+      }
+    ]
+  },
+  "nav": {
+    "tag": "div",
+    "classes": "js__project-navigation re__project-navigation",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "padding": "24px 0px 0px",
+      "margin": "0px",
+      "width": "1280px",
+      "height": "84px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "boxShadow": "rgb(242, 242, 242) 0px 1px 0px 0px",
+      "position": "static",
+      "top": "auto",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "auto",
+      "zIndex": "auto"
+    },
+    "text": "Bán & Cho thuê\nDanh sách tin rao\nTổng quan\nGiới thiệu về dự án\nMặt bằng dự án\nTổng thể hạ tầng\nVị trí\nBản đồ dự án\nƯớc tính khoản vay\nHỗ trợ tính lãi suất\nXem thêm \nCâu hỏi thường gặp , Dự án liên quan",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "re__project-navigation__container",
+        "text": "Bán & Cho thuê\nDanh sách tin rao\nTổng quan\nGiới th"
+      }
+    ]
+  },
+  "metrics": {
+    "tag": "div",
+    "classes": "re__project-main-number re__clearfix",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(44, 44, 44)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "width": "750px",
+      "height": "96px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(44, 44, 44)",
+      "boxShadow": "none",
+      "position": "static",
+      "top": "auto",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "auto",
+      "zIndex": "auto"
+    },
+    "text": "Diện tích\n\t420 ha\nSố tòa\n\t66 tòa\nChủ đầu tư\n\tTập đoàn Vingroup\nPháp lý\n\tSổ hồng sở hữu lâu dài",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "js__project-attr-box re__project-attr-box",
+        "text": "Diện tích\n\t420 ha\nSố tòa\n\t66 tòa\nChủ đầu tư\n\tTập đ"
+      }
+    ]
+  },
+  "content": {
+    "tag": "div",
+    "classes": "re__project-main-content",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(44, 44, 44)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px",
+      "width": "750px",
+      "height": "800px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(44, 44, 44)",
+      "boxShadow": "none",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "zIndex": "auto"
+    },
+    "text": "Dự án Vinhomes Ocean Park là đại đô thị do chủ đầu tư Vingroup triển khai trên địa bàn huyện Gia Lâm, Hà Nội với quỹ đất lên tới 420ha. Quy mô dự án gồm 66 tòa chung cư cao 23 - 26 tầng và 2300 căn biệt thự và shophouse. \n\nKhu đô thị Vinhomes Ocean Park Gia Lâm được quy hoạch theo mô hình đô thị Singapore, mang đến cho cư dân một môi trường sống lý tưởng cùng những đại tiện ích và cảnh quan quy mô tầm cỡ như: biển hồ nước mặn nhân tạo đầu tiên ở Việt Nam rộng 6.1 ha, hồ lớn trung tâm rộng 24.5 ha, công viên gym ngoài trời với hàng trăm máy tập, công viên BBQ rộng lớn với 117 ha không gian cây xanh xung quanh.\n\nHình ảnh thực tế khu đô thị Vinhomes Ocean Park\nVị Trí\n\nDự án Vinhomes Ocean Park tọa lạc trên địa phận các xã Dương Xá, Đa Tốn, Kiêu Kỵ, thuộc huyện Gia Lâm, TP. Hà Nội, một trong những vị trí đắc địa của trung tâm huyện Gia Lâm. Tuy không phải là trung tâm thành phố nhưng khu vực này có hệ thống giao thông thuận tiện, nằm gần một số tuyến đường trọng điểm như Ngọc Lâm, Xuân Quan, Nguyễn Văn Cừ nên việc di chuyển vào nội đô rất dễ dàng.\n\n- Phía Đông Bắc: Đường quy hoạch rộng 40m\n- Phía Đông Nam: Khu dân cư hiện có xã Kiêu Kỵ\n- Phía Tây Bắc: Quốc lộ quy hoạch rộng 40m - tuyến đường Đông Dư - Dương Xá\n- Phía Tây Nam: Quốc lộ 5B - cao tốc Hà Nội - Hải Phòng\n\nVị trí dự án Vinhomes Ocean Park\nQuy Hoạch\n\nVinhomes Ocean Park Gia Lâm được chia thành 2 phân khu chức năng chính gồm Khu chung cư cao tầng và Khu thấp tầng.\n\nKhu chung cư: 66 tòa căn hộ, cao từ 26-31 tầng.\nKhu thấp tầng: khoảng 3.000 căn biệt thự, shophouse, shop thương mại dịch vụ và liền kề\n\nKhu chung cư cao tầng gồm các phân khu: The Sapphire, The Ocean View, The Metropolitan, Masteri Waterfront\n\nThe Sapphire: là phân khu đầu tiên được bàn giao với 27 toà, gồm 2 tiểu khu nhỏ: Sapphire 1 và Sapphire 2\n\nThe Ocean View: tương ứng với 3 phong cách khách nhau gồm:\n\n+ The Zenpark: 4 tòa căn hộ cao cấp Nhật Bản, đã hoàn thiện và bàn giao.\n+ The Pavillion: mang phong cách Singapore\n+ The Bayfront: mang phong cách Dubai cao cấp nhất tại dự án\n\nThe Metropolitan: gồm 15 tòa căn hộ được chia thành 4 tiểu khu nhỏ:\n\n+ The Zurich: 3 tòa căn hộ mang phong cách Thụy Sỹ\n+ The Beverly, The London, The Paris\n\nMasteri Waterfront: là phân khu nằm kế bên Đại lộ 52m và Hồ Ngọc Trai 24,5ha, do Masterise Homes làm chủ đầu tư, triển khai với quy mô 6 tòa căn hộ cao cấp.\n\nKhu thấp tầng tại Vinhomes Ocean Park được chia thành 4 tiểu khu:\n\nTiểu khu San Hô: Khu mở mang phong cách Đông Dương\nTiểu khu Hải Âu: Khu kinh doanh phong cách Đông Dương (tất cả biệt thự liền kề tại tiểu khu này có thể kinh doanh)\nTiểu khu Sao Biển: Khu mở mang phong cách Địa Trung Hải\nTiểu khu Ngọc Trai: Khu đóng mang phong cách Địa Trung Hải\nMặt bằng tổng thể khu đô thị Vinhomes Ocean Park\nMặt Bằng - Thiết Kế\nI - Khu cao tầng\n\n1 - Phân khu The Sapphire\n\nPhân khu The Sapphire được chia nhỏ thành các tiểu khu The Sapphire 1, The Sapphire 2 nằm dọc theo trường đại học VinUni và sông sinh thái. Các căn hộ tại The Sapphire có diện tích khá nhỏ, đa phần từ 28 – 75m2, hướng tới đối tượng chính là người dân có thu nhập mức trung bình tại khu vực phía Đông Hà Nội.\n\nPhân khu The Sapphire đã hoàn thiện và bàn giao\nMặt bằng tòa S1.02 phân khu The Sapphire\nNhà mẫu The Sapphire\nNhà mẫu The Sapphire\n\n2 - Phân khu The Ocean View\n\nPhân khu The Ocean View được xây dựng theo 3 phong cách Singapore, Nhật Bản, Dubai với 12 tòa căn hộ chia thành 3 tiểu khu:\n\nThe Pavilion: 4 tòa căn hộ P1, P2, P3, P4\nThe Zenpark: 4 tòa căn hộ R1.01, R1.02, R1.03, R1.05\nThe Bayfront: 4 tòa căn hộ BF1, BF2, BF3, RS\nPhối cảnh Phân khu The Ocean View\n\n3 - Tiểu khu khu The Zenpark\n\nTiểu khu The Zenpark (tên gọi cũ là The Ruby) gồm 4 tòa căn hộ R1.01, R1.02, R1.03, R1.05 mang tiêu chuẩn căn hộ Vinhomes Ruby, nằm dọc theo tuyến đường quy hoạch Đông Dư – Dương Xá rộng 40 m. Các căn hộ tại The Ruby có diện tích từ 26.6 – 100 m2, nội thất bàn giao cơ bản gồm: điều hòa, tủ bếp, tủ quần áo. Phân khu hướng tới đối tượng chính là những khách hàng cao cấp, muốn trải nghiệm cuộc sống đúng chuẩn “Vinhomes” như các khu đô thị Times City, Royal City.\n\nPhối cảnh tiểu khu The Zenpark\nPhối cảnh nội khu phân khu The Zenpark\nMặt bằng phân khu The Zenpark\nNhà mẫu tiểu khu The Zenpark\nNhà mẫu tiểu khu The Zenpark\n\n4 - Phân khu The Metropolitan\n\nPhân khu The Metropolitan được xây dựng theo Phong cách Thụy Sĩ, Mỹ, Pháp, Anh với quy mô 15 căn hộ chia thành 4 tiểu khu:\n\nThe Zurich: 3 tòa căn hộ ZR1, ZR2, ZR3\nThe Beverly: 4 tòa căn hộ BE1, BE2, BE3, BE4\nThe Paris: 5 tòa căn hộ PR1, PR2, PR3, PR5, PR6\nThe London: 3 tòa căn hộ LD1, LD2, LD3\nPhối cảnh Phân khu The Metropolitan\nII - Khu biệt thự\n\nVinhomes Ocean Park bao gồm 4 tiểu khu biệt thự như sau:\n\nTiểu khu Sao Biển\nTiểu khu Ngọc Trai\nTiểu khu San Hô\nTiểu khu Hải Âu\n Khu biệt thự Vinhomes Ocean Park Gia Lâm\n\n1 - Tiểu khu Sao Biển \n\nTiểu khu Sao Biển được quy hoạch với tổng số 712 căn bao gồm: biệt thự đơn lập, biệt thự song lập, nhà liền kề, Shophouse, nằm dọc theo hồ điều hòa trung tâm, biển hồ nước mặn và đường quy hoạch 40m. Sở hữu căn biệt thự tiểu khu Sao Biển, bạn sẽ được trải nghiệm cuộc sống đúng chuẩn “đại dương” khi ngay trước nhà là hồ, là biển, là bãi cát trắng rộng lớn và hàng dừa rợp bóng.\n\nBiệt thự đơn lập:  44 căn có diện tích 148,5 – 368,6m2\nBiệt thự song lập: 196 căn có diện tích 127,5 – 150m2\nBiệt thự liền kề: 122 căn có diện tích 71 — 152m2\nNhà phố shophouse: 350 căn có diện tích 67,5 – 173m2\nMặt bằng tiểu khu Sao Biển\n\n2 - Tiểu khu Ngọc Trai\n\nTiểu khu Ngọc Trai bao gồm các loại biệt thự đơn lập, biệt thự song lập, biệt thự liền kề và nhà phố thương mại shophouse. Dãy phố kinh doanh shophouse được bố trí tại mặt trục đường chính rộng 52m của cả dự án Vinhomes Ocean Park, trong khi các loại hình đơn lập, song lập và liền kề nằm các vị trí riêng tư bên trong.\n\nBiệt thự đơn lập: 183 căn có diện tích 227,5 – 347,5m2\nBiệt thự song lập: 311 căn có diện tích 135 – 338m2\nBiệt thự liền kề: 115 căn có diện tích 70,8- 121m2\nNhà phố shophouse: 116 căn có diện tích 67,2 – 102m2\nMặt bằng tiểu khu Ngọc Trai\nThiết kế mặt bằng biệt thự đơn lập\nThiết kế mặt bằng biệt thự song lập\nThiết kế mặt bằng shophouse\n\n3 - Tiểu khu San Hô\n\nTổng số các căn biệt thự San Hô Vinhomes Ocean Park là 329 căn với 03 dạng loại hình sản phẩm bất động sản: Biệt thự Song lập, Biệt thự đơn lập, Shophouse. Các căn biệt thự tại đây được thiết kế theo kiến trúc Đông Dương, được kết hợp hài hòa giữa 2 nền văn hóa Pháp và Việt Nam, giống với tiểu khu Hải Âu.\n\nBiệt thự đơn lập: 44 căn\nBiệt thự song lập: 196 căn\nShophouse: 89 căn\nMặt bằng tiểu khu San Hô\n\n4 - Tiểu khu Hải Âu\n\nBiệt thự Hải Âu Vinhomes Ocean Park được quy hoạch với tổng số 512 căn biệt thự bao gồm: biệt thự đơn lập, biệt thự song lập, nhà liền kề, nằm dọc theo hồ điều hòa trung tâm và biển hồ nước mặn. Tiểu khu Hải Âu không có shophouse, nhưng 100% biệt thự liền kề tại đây lại được phép kinh doanh buôn bán như shophouse.\n\nBiệt thự đơn lập: diện tích 142m2 - 418m2m2 - xây dựng 3 tầng nổi và 1 tum.\nBiệt thự song lập: diện tích 148m2 - 155m2 - xây dựng 3 tầng nổi và 1 tum.\nNhà liền kề: diện tích 90m2 - 145m2;  xây dựng 4 tầng nổi và 1 tum.\nMặt bằng tiểu khu Hải Âu\nThiết kế mặt bằng biệt thự đơn lập\nThiết kế mặt bằng biệt thự song lập\nThiết kế mặt bằng nhà liền kề\nTiện ích nội khu\n\nKhu đô thị Vinhomes Ocean Park mang đến không gian sống tươi mát với nhiều công viên, vườn, hồ nước, kênh đào. Cư dân tại đây sẽ được hưởng trọn vẹn những tiện ích và dịch vụ chuẩn Vinhomes như:\n\nBiển hồ nước mặn 6,1 ha\nHồ lớn trung tâm 24,5 ha\n117 ha cây xanh, mặt nước\nCảnh quan sân vườn đường dạo với hơn 60 chòi nghỉ thư giãn ngắm cảnh\nCông viên Gym ngoài trời với hơn 700 máy tập\n150 sân thể thao đa dạng: Tennis, cầu lông, bóng đá, bóng rổ, bóng chuyền…\n8 bể bơi trong nhà và ngoài trời phong cách resort\n60 sân chơi trẻ em và hàng loạt sân vận động, thảm cỏ dưỡng sinh\n6 công viên BBQ với 100 điểm nướng dã ngoại\nHệ thống trường học VinSchool, đại học VinUni\nTTTM Vincom, những dãy phố TMDV sầm uất\nHệ thống bệnh viện, phòng khám VinMec\nBản đồ tiện ích Vinhomes Ocean Park Gia Lâm\nToàn cảnh hồ trải cát trắng rộng 24.5 ha – Trái tim khu đô thị Vinhomes Ocean Park\nKhu bể bơi ngoài trời mang phong cách “resort” giữa các tòa chung cư Vinhomes Ocean Park\nHệ thống các sân thể thao\nHơn 700 máy tập gym hiện đại đan xen bên trong nội khu căn hộ\nĐại học VinUni rộng 23 ha, trung tâm là tòa nhà chính cao 10 tầng với đỉnh tháp cao tới 108 m\n\nĐặc biệt, Vinhomes đang triển khai hệ thống an ninh đa lớp có khả năng bảo vệ 5 tầng cho cư dân tại các đại đô thị, trong đó có Vinhomes Ocean Park Gia Lâm, góp phần đưa các đại đô thị Vinhomes trở thành những “thành phố đáng sống”, bắt kịp xu hướng đô thị thông minh trên thế giới. Cụ thể:\n\nLớp đầu tiên - hàng rào điện tử gồm các cảm biến lắp đặt tại các cổng an ninh, trên tường rào dài, các hành lang diện tích rộng và có những góc khuất mà Camera AI không nhìn thấy và cần kiểm soát người qua lại.\nLớp thứ hai - Cảm biến vỡ kính được lắp tại các cửa hàng, căn hộ, biệt thự, văn phòng có mặt kính tiếp giáp với các địa điểm qua lại công cộng và bên trong có nhiều tài sản cần bảo vệ.\nLớp thứ ba – cảm biến mở cửa được lắp tại các cửa cần kiểm soát an ninh cao như các phòng chứa hồ sơ, lưu trữ, tài chính kế toán, các phòng chứa trang thiết bị kỹ thuật và các tài sản quan trọng.\nLớp thứ tư - cảm biến chuyển động/thân nhiệt nhằm cảnh báo những hành vi xâm nhập bất thường tại các phòng cần bảo vệ cao như phòng điều hành, phòng đặt thiết bị điều khiển, phòng kỹ thuật hay tại các góc khuất.\nLớp thứ năm - Cảm biến âm thanh, cảm biến rung chấn là lớp trong cùng để bảo vệ két sắt, máy ATM hoặc các tủ chứa tài liệu và tài sản cần bảo vệ.\n\nTất cả các cảm biến trên đều được tích hợp để gửi tín hiệu bất thường ngay lập tức về trung tâm điều hành và lực lượng an ninh tại vị trí gần nhất hoặc gửi trên ứng dụng cư dân, giúp lực lượng an ninh, bảo vệ và người dân phát hiện và xử lý kịp thời trong mọi tình huống.\n\nTiện ích ngoại khu\n\nNgoài những tiện ích nội khu đẳng cấp, cư dân sinh sống tại Vinhomes Ocean Park còn thuận tiện kết nối với những tiện ích gần kề như:\n\nGần nhà thi đấu Gia Lâm\n500m đến trường THCS Cồ Bi\n1km đến trường THPT Cao Bá Quá\n1,5km đến Bệnh viện Đa khoa Gia Lâm\n2,5km đến Học viện Nông nghiệp\n6km đến sân bay Gia Lâm\nLiên kết vùng tại Vinhomes Ocean Park\nGiá Bán\n\nXem tin rao bán căn hộ chung cư Vinhomes Ocean Park Gia Lâm cập nhật mới nhất!\nXem tin rao bán biệt thự liền kề Vinhomes Ocean Park Gia Lâm cập nhật mới nhất!\nXem tin rao bán nhà phố thương mại Vinhomes Ocean Park Gia Lâm cập nhật mới nhất!\n\n \nXem thêm",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "js__prj-detail-content re__detail-content re__project-editor",
+        "text": "Dự án Vinhomes Ocean Park là đại đô thị do chủ đầu"
+      },
+      {
+        "tag": "div",
+        "classes": "js__box-view-more re__box-view-more re__display-none",
+        "text": "Xem thêm"
+      },
+      {
+        "tag": "div",
+        "classes": "js__box-view-less re__box-view-less re__display-none",
+        "text": "Thu gọn"
+      }
+    ]
+  },
+  "sidebar": {
+    "tag": "div",
+    "classes": "project-main-right",
+    "styles": {
+      "width": "363px",
+      "display": "block",
+      "padding": "0px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    "text": "Liên hệ tư vấn miễn phí\n\nHãy để lại thông tin của bạn để nhận tư vấn và các cập nhật mới nhất của dự"
+  },
+  "related": {
+    "tag": "div",
+    "classes": "re__project-related",
+    "styles": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fontFamily": "\"Roboto Regular\", Roboto, Arial",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "40px 0px",
+      "margin": "0px",
+      "width": "1280px",
+      "height": "413px",
+      "maxWidth": "none",
+      "display": "block",
+      "flexDirection": "row",
+      "justifyContent": "normal",
+      "alignItems": "normal",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "border": "",
+      "boxShadow": "none",
+      "position": "static",
+      "top": "auto",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "auto",
+      "zIndex": "auto"
+    },
+    "text": "Dự án liên quan\n5\nĐang cập nhật\nIA25 Ciputra\n1,81 ha\nBắc Từ Liêm, Hà Nội\n4\nĐã bàn giao\nJSC 34\n3.341,8 m²\nThanh Xuân, Hà Nội\n4\nĐã bàn giao\nC13 Khuyến Lương\n3.434 m²\nHoàng Mai, Hà Nội\n5\nĐang cập nhật\n2/3/2026: Lễ động thổ\nSunshine Continental\n2.229 m²\nNam Từ Liêm, Hà Nội\n8\nĐang cập nhật\nNgày 02/3/2026: Lễ khởi công dự án Noble West Lake\nNoble West Lake Ha Noi\n5,96 ha\nTây Hồ, Hà Nội\n9\nĐang cập nhật\nMoonlight 2 - An Lạc Green Symphony\n6.466 m²\nHoài Đức, Hà Nội",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "re__project-related-container",
+        "text": "Dự án liên quan\n5\nĐang cập nhật\nIA25 Ciputra\n1,81 "
+      }
+    ]
+  }
+}
